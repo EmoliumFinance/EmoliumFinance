@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 29.2.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 108)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #6fc7ba;
+      }
+
+      .st1 {
+        fill: #1a1a1a;
+      }
+    </style>
+  </defs>
+  <g id="circle">
+    <g id="Fantom-circle">
+      <circle id="Oval" class="st0" cx="250" cy="250" r="235.7"/>
+    </g>
+  </g>
+  <polygon id="polygon1" class="st1" points="261.6 374.7 311.6 382.1 331.5 247.6 311.6 113.1 261.6 120.5 275.8 217.2 171.1 136.6 140.3 176.8 232.2 247.6 140.3 318.3 171.1 358.6 275.8 277.9 261.6 374.7"/>
+</svg>
