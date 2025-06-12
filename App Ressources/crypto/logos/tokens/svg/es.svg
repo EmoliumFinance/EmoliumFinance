@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 29.2.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 108)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        fill: #1e1e1e;
+      }
+
+      .st2 {
+        fill: none;
+      }
+
+      .st3 {
+        fill: url(#Dégradé_sans_nom);
+      }
+
+      .st4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle class="st2" cx="250" cy="250" r="207.2"/>
+    </clipPath>
+    <linearGradient id="Dégradé_sans_nom" data-name="Dégradé sans nom" x1="266.8" y1="139.6" x2="738.8" y2="139.6" gradientTransform="translate(-204.3 -6.8) rotate(45) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5700ff"/>
+      <stop offset="0" stop-color="#6200f4"/>
+      <stop offset=".4" stop-color="#8000d6"/>
+      <stop offset=".7" stop-color="#b100a8"/>
+      <stop offset="1" stop-color="#dd007f"/>
+    </linearGradient>
+  </defs>
+  <circle class="st2" cx="250" cy="250" r="236"/>
+  <g>
+    <circle class="st0" cx="250" cy="250" r="207.2"/>
+    <g class="st4">
+      <rect class="st0" width="500" height="500"/>
+    </g>
+  </g>
+  <path class="st3" d="M416.9,83.1c-92.2-92.2-241.6-92.2-333.8,0-92.2,92.2-92.2,241.6,0,333.8s241.6,92.2,333.8,0,92.2-241.6,0-333.8ZM103.5,396.5c-80.9-80.9-80.9-212.1,0-293,80.9-80.9,212.1-80.9,293,0,80.9,80.9,80.9,212.1,0,293s-212.1,80.9-293,0Z"/>
+  <g>
+    <path class="st1" d="M285.8,292.6h0s0,0,0,0h0,0Z"/>
+    <path class="st1" d="M285.8,292.6c-66.3,19.9-121.2,49-155.5,83l-1.5,1.5c9.1,8.6,19.2,16.4,30,23l2.3-2.8c9.4-11.5,19.4-22.5,29.9-33,28.1-28,60.2-52.2,94.8-71.7h0Z"/>
+    <path class="st1" d="M293.4,263.1H74.5c2.6,35.5,15.8,68.1,36.5,94.6l.9-.9c21.3-21,49-40.1,82.4-56.7,29.3-14.6,62.9-27.1,99.1-37Z"/>
+    <path class="st1" d="M209.5,117.1c59.4,59.1,134.1,98.3,216,113.1-9.9-87.7-84.5-155.9-175.2-155.9s-46.8,4.8-67.6,13.4c8.5,10.2,17.5,20.1,26.8,29.4h0Z"/>
+    <path class="st1" d="M130.2,124.3c34.4,34.1,89.2,63.1,155.6,83.1-34.6-19.5-66.8-43.7-94.9-71.7-10.4-10.4-20.5-21.5-29.9-33l-2.3-2.8c-10.8,6.6-20.8,14.3-29.9,22.9l1.5,1.5s0,0,0,0Z"/>
+    <path class="st1" d="M209.5,382.9c-9.4,9.3-18.4,19.2-26.8,29.4,20.8,8.6,43.7,13.4,67.6,13.4,90.7,0,165.3-68.2,175.2-155.9-81.9,14.8-156.6,53.9-216,113.1h0s0,0,0,0Z"/>
+    <path class="st1" d="M194.3,199.9h0c-33.4-16.6-61-35.7-82.3-56.6l-.9-.9c-20.7,26.5-33.9,59.1-36.5,94.6h218.9c-36.2-9.9-69.8-22.4-99.1-37h0Z"/>
+  </g>
+</svg>

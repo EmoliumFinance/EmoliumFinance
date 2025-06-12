@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 29.2.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 108)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        fill: #f0b90b;
+      }
+
+      .st2 {
+        fill: none;
+      }
+
+      .st3 {
+        fill: url(#Dégradé_sans_nom);
+      }
+
+      .st4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle class="st2" cx="250" cy="250" r="207.2"/>
+    </clipPath>
+    <linearGradient id="Dégradé_sans_nom" data-name="Dégradé sans nom" x1="369.9" y1="611.3" x2="842" y2="611.3" gradientTransform="translate(253.8 -610.8) rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5700ff"/>
+      <stop offset="0" stop-color="#6200f4"/>
+      <stop offset=".4" stop-color="#8000d6"/>
+      <stop offset=".7" stop-color="#b100a8"/>
+      <stop offset="1" stop-color="#dd007f"/>
+    </linearGradient>
+  </defs>
+  <circle class="st2" cx="250" cy="250" r="236"/>
+  <g>
+    <circle class="st0" cx="250" cy="250" r="207.2"/>
+    <g class="st4">
+      <rect class="st0" width="500" height="500"/>
+    </g>
+  </g>
+  <path class="st3" d="M416.9,83.1c-92.2-92.2-241.6-92.2-333.8,0-92.2,92.2-92.2,241.6,0,333.8s241.6,92.2,333.8,0,92.2-241.6,0-333.8ZM103.5,396.5c-80.9-80.9-80.9-212.1,0-293,80.9-80.9,212.1-80.9,293,0,80.9,80.9,80.9,212.1,0,293s-212.1,80.9-293,0Z"/>
+  <g>
+    <path class="st1" d="M143.7,250l.2,62.4,53,31.2v36.5l-84.1-49.3v-99.1l30.9,18.2h0ZM143.7,187.6v36.4l-30.9-18.3v-36.4l30.9-18.3,31,18.3-31,18.3h0ZM219,169.3l30.9-18.3,31,18.3-31,18.3-30.9-18.3h0Z"/>
+    <path class="st1" d="M166,299.5v-36.5l30.9,18.3v36.4l-30.9-18.1h0ZM219,356.7l30.9,18.3,31-18.3v36.4l-31,18.3-30.9-18.3v-36.4h0ZM325.2,169.3l30.9-18.3,31,18.3v36.4l-31,18.3v-36.4l-30.9-18.3h0ZM356.1,312.4l.2-62.4,30.9-18.3v99.1l-84.1,49.3v-36.5l53-31.2h0Z"/>
+    <polygon class="st1" points="334 299.5 303.1 317.6 303.1 281.2 334 262.9 334 299.5"/>
+    <path class="st1" d="M334,200.5l.2,36.5-53.2,31.2v62.6l-30.9,18.1-30.9-18.1v-62.6l-53.2-31.2v-36.5l31-18.3,52.9,31.4,53.2-31.4,31,18.3h-.1ZM166,138.1l83.9-49.5,84.1,49.5-30.9,18.3-53.2-31.4-53,31.4-30.9-18.3h0Z"/>
+  </g>
+</svg>

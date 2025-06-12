@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 29.2.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 108)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #6c00f6;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: none;
+      }
+
+      .st3 {
+        fill: url(#Dégradé_sans_nom);
+      }
+
+      .st4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle class="st2" cx="250" cy="250" r="207.2"/>
+    </clipPath>
+    <linearGradient id="Dégradé_sans_nom" data-name="Dégradé sans nom" x1="369.9" y1="611.3" x2="842" y2="611.3" gradientTransform="translate(253.8 -610.8) rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5700ff"/>
+      <stop offset="0" stop-color="#6200f4"/>
+      <stop offset=".4" stop-color="#8000d6"/>
+      <stop offset=".7" stop-color="#b100a8"/>
+      <stop offset="1" stop-color="#dd007f"/>
+    </linearGradient>
+  </defs>
+  <circle class="st2" cx="250" cy="250" r="236"/>
+  <g>
+    <circle class="st1" cx="250" cy="250" r="207.2"/>
+    <g class="st4">
+      <rect class="st1" width="500" height="500"/>
+    </g>
+  </g>
+  <path class="st3" d="M416.9,83.1c-92.2-92.2-241.6-92.2-333.8,0-92.2,92.2-92.2,241.6,0,333.8s241.6,92.2,333.8,0,92.2-241.6,0-333.8ZM103.5,396.5c-80.9-80.9-80.9-212.1,0-293,80.9-80.9,212.1-80.9,293,0,80.9,80.9,80.9,212.1,0,293s-212.1,80.9-293,0Z"/>
+  <path class="st0" d="M211.4,205.4l-28.9-16.8-86.8,50.4v100.4l86.8,50.2,86.8-50.2v-156.2l48.1-27.9,48.1,27.9v55.8l-48.1,27.9-28.9-16.8v44.7l28.9,16.8,86.8-50.2v-100.4l-86.8-50.2-86.8,50.2v156.2l-48.1,27.9-48.1-27.9v-55.9l48.1-27.9,28.9,16.8v-44.7h0Z"/>
+</svg>

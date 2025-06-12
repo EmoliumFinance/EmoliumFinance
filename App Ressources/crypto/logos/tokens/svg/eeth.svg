@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 29.2.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 108)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #141414;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: none;
+      }
+
+      .st3 {
+        fill: #8c8c8c;
+      }
+
+      .st4 {
+        fill: #393939;
+      }
+
+      .st5 {
+        fill: #3c3c3b;
+      }
+
+      .st6 {
+        fill: url(#Dégradé_sans_nom_10);
+      }
+
+      .st7 {
+        clip-path: url(#clippath);
+      }
+
+      .st8 {
+        fill: #343434;
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle class="st1" cx="250" cy="250" r="207.2"/>
+    </clipPath>
+    <linearGradient id="Dégradé_sans_nom_10" data-name="Dégradé sans nom 10" x1="163.7" y1="611.3" x2="635.7" y2="611.3" gradientTransform="translate(399.7 -464.9) rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5700ff"/>
+      <stop offset=".1" stop-color="#6200f4"/>
+      <stop offset=".4" stop-color="#8000d6"/>
+      <stop offset=".7" stop-color="#b100a8"/>
+      <stop offset="1" stop-color="#dd007f"/>
+    </linearGradient>
+  </defs>
+  <circle class="st2" cx="250" cy="250" r="236"/>
+  <g>
+    <circle class="st1" cx="250" cy="250" r="207.2"/>
+    <g class="st7">
+      <rect class="st1" width="500" height="500"/>
+    </g>
+  </g>
+  <g id="Layer_x5F_1">
+    <g id="_1421394342400">
+      <g>
+        <g>
+          <polygon class="st8" points="250 60.6 366 253.2 250 321.8 250 60.6"/>
+          <path class="st1" d="M251,64.2l113.7,188.7-113.7,67.2V64.2M249,57v266.6l118.4-70L249,57h0Z"/>
+        </g>
+        <g>
+          <polygon class="st3" points="133.9 253.2 250 60.6 250 321.8 133.9 253.2"/>
+          <path class="st1" d="M249,64.2v255.9l-113.8-67.2,113.8-188.7M251,57l-118.5,196.6,118.5,70V57h0Z"/>
+        </g>
+        <g>
+          <polygon class="st5" points="250 346.7 364 279.3 250 439.9 250 346.7"/>
+          <path class="st1" d="M360.4,282.6l-109.4,154.1v-89.5l109.4-64.7M367.5,276.1l-118.5,70v96.9l118.5-166.9h0Z"/>
+        </g>
+        <g>
+          <polygon class="st3" points="136 279.3 250 346.7 250 439.9 136 279.3"/>
+          <path class="st1" d="M139.6,282.6l109.4,64.7v89.5l-109.4-154.1M132.5,276.1l118.5,166.9v-96.9l-118.5-70h0Z"/>
+        </g>
+        <g>
+          <polygon class="st0" points="250 201.3 365.2 253.7 250 321.8 250 201.3"/>
+          <path class="st1" d="M251,202.9l112.1,50.9-112.1,66.3v-117.2M249,199.8v123.8l118.4-70-118.4-53.8h0Z"/>
+        </g>
+        <g>
+          <polygon class="st4" points="134.7 253.7 250 201.3 250 321.8 134.7 253.7"/>
+          <path class="st1" d="M249,202.9v117.2l-112.2-66.3,112.2-50.9M251,199.8l-118.5,53.8,118.5,70v-123.8h0Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <path class="st6" d="M416.9,83.1c-92.2-92.2-241.6-92.2-333.8,0-92.2,92.2-92.2,241.6,0,333.8,92.2,92.2,241.6,92.2,333.8,0,92.2-92.2,92.2-241.6,0-333.8ZM103.5,396.5c-80.9-80.9-80.9-212.1,0-293s212.1-80.9,293,0,80.9,212.1,0,293-212.1,80.9-293,0Z"/>
+</svg>
